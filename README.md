@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fazal
-- 👀 I’m interested in game developing 
+- 👀 I’m interested in game development 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
